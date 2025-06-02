@@ -80,10 +80,13 @@ options:
 <p>
   El siguientes comando nos muestra las interfaces que tenemos disponibles.
 </p>
-```
-python nexus.py --ifaces
+
 
 ```
+  python nexus.py --iface
+```
+
+
 
 ```
 python nexus.py --ifaces
@@ -93,8 +96,6 @@ Interfaces disponibles:
  - eth1
  - wlan0
  - docker0
-
-
 ```
 
 ```
